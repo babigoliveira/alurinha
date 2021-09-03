@@ -4,7 +4,7 @@
 
 ---
 
-Esse projeto consiste de uma página WEB estática construída com HTML5 e CSS3 simulando uma versão simplificada da página de cursos da Alura
+Esse projeto consiste de uma página WEB estática responsiva construída com HTML5 e CSS3 simulando uma página de listagem de cursos oferecidos na Alura.
 
 ---
 
